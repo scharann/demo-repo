@@ -1,26 +1,27 @@
 # Table of Contents
 
-1. [Adding Colorful text](#adding-colorful-text)
-2. [Reasons for HTML Tags Not Working](#reasons-for-html-tags-not-working)
-3. [1. **Use Syntax Highlighting in Code Blocks**](#1-use-syntax-highlighting-in-code-blocks)
-5. [2. **Use Emoji for Color**](#2-use-emoji-for-color)
-6. [3. **Embed Images with Colored Text**](#3-embed-images-with-colored-text)
-7. [4. **Use HTML Entities for Colored Blocks**](#4-use-html-entities-for-colored-blocks)
-8. [5. **Leverage Badges**](#5-leverage-badges)
-9. [Why Inline Styles Don't Work](#why-inline-styles-dont-work)
-10. [How to know which HTML entities are supported](#how-to-know-which-html-entities-are-supported)
-11. [Various Ways to add color](#various-ways-to-add-color)
-12. [**1. Supported Color Models in Issues/Discussions**](#1-supported-color-models-in-issuesdiscussions)
-13. [**2. Diff Syntax Highlighting**](#2-diff-syntax-highlighting)
-14. [**3. SVG with Inline Styles**](#3-svg-with-inline-styles)
-15. [**4. Hex Color Swatches**](#4-hex-color-swatches)
-16. [**5. Limitations**](#5-limitations)
-17. [Examples of using Colors](#examples-of-using-colors)
-18. [Using HTML Entities for colored blocks](#using-html-entities-for-colored-blocks)
-19. [Using diff code block](#using-diff-code-block)
-21. [Using Emojis](#using-emojis)
-
-
+1. Table of Contents
+2. Adding Colorful text
+3. Reasons for HTML Tags Not Working
+4. 1. **Use Syntax Highlighting in Code Blocks**
+5. This text will appear gray
+6. 2. **Use Emoji for Color**
+7. 3. **Embed Images with Colored Text**
+8. 4. **Use HTML Entities for Colored Blocks**
+9. 5. **Leverage Badges**
+10. Why Inline Styles Don't Work
+11. How to know which HTML entities are supported
+12. Various Ways to add color
+13. **1. Supported Color Models in Issues/Discussions**
+14. **2. Diff Syntax Highlighting**
+15. **3. SVG with Inline Styles**
+16. **4. Hex Color Swatches**
+17. **5. Limitations**
+18. Examples of using Colors
+19. Using HTML Entities for colored blocks
+20. Using diff code block
+21. Gray Text
+22. Using Emojis
 
 
 # Adding Colorful text

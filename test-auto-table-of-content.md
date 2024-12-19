@@ -118,7 +118,7 @@ You can use badge generators (like [Shields.io](https://shields.io/)) to create 
 
 ---
 
-## Why Inline Styles Don't Work
+# Why Inline Styles Don't Work
 GitHub sanitizes Markdown to prevent security vulnerabilities like XSS (Cross-Site Scripting). As a result, most inline styles and custom CSS are stripped out.
 
 If you need full control over styling, consider hosting your documentation on a platform like GitHub Pages or another static site generator where you can write custom HTML/CSS.
@@ -127,11 +127,13 @@ Let me know if you'd like more help! :blush:
 
 ---
 
-## How to know which HTML entities are supported
+# How to know which HTML entities are supported
 
 To know which HTML entities or techniques for colored blocks work in GitHub README files, here are the confirmed options:
 
-### **1. Supported Color Models in Issues/Discussions**
+# Various Ways to add color
+
+## **1. Supported Color Models in Issues/Discussions**
 - GitHub supports visualizing colors in issues, pull requests, and discussions using HEX, RGB, or HSL codes within backticks:
   ```markdown
   The color is `#ff0000` (red).
@@ -140,7 +142,7 @@ To know which HTML entities or techniques for colored blocks work in GitHub READ
 
 ---
 
-### **2. Diff Syntax Highlighting**
+## **2. Diff Syntax Highlighting**
 - Use `diff` syntax for colored text in code blocks:
   ```diff
   - Red text
@@ -151,7 +153,7 @@ To know which HTML entities or techniques for colored blocks work in GitHub READ
 
 ---
 
-### **3. SVG with Inline Styles**
+## **3. SVG with Inline Styles**
 - You can use an SVG file with inline styles to display custom colors:
   ```html
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30">
@@ -166,12 +168,12 @@ To know which HTML entities or techniques for colored blocks work in GitHub READ
 
 ---
 
-### **4. Hex Color Swatches**
+## **4. Hex Color Swatches**
 - Typing a valid hex code (e.g., `#ff0000`) in Markdown will display a color dot only in issues or pull requests, not README files[3].
 
 ---
 
-### **5. Limitations**
+## **5. Limitations**
 - Inline styles like `<span style="color:red;">` or `<font color="red">` are stripped out in README files for security reasons[1][6].
 
 Citations:
@@ -185,16 +187,16 @@ Citations:
 
 ---
 
-## Examples of using Colors
+# Examples of using Colors
 
-### Using HTML Entities for colored blocks
+## Using HTML Entities for colored blocks
 
 - &#x1F7E5; Red
 - &#x1F7E6; Blue
 - &#x1F7E9; Green
 
 
-### Using diff code block
+## Using diff code block
 
 <span style="color:red;">Red-Text-Using-In-Line</span>
 
@@ -209,7 +211,7 @@ Citations:
 ```
 ---
 
-### Using Emojis
+## Using Emojis
 
 > [!TIP]
 > Using Emoojis use color ball

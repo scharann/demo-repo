@@ -1,24 +1,3 @@
-1. [Adding Colorful text](#adding-colorful-text)
-  2. [Reasons for HTML Tags Not Working](#reasons-for-html-tags-not-working)
-    3. [1. **Use Syntax Highlighting in Code Blocks**](#1-use-syntax-highlighting-in-code-blocks)
-4. [This text will appear gray](#this-text-will-appear-gray)
-    5. [2. **Use Emoji for Color**](#2-use-emoji-for-color)
-    6. [3. **Embed Images with Colored Text**](#3-embed-images-with-colored-text)
-    7. [4. **Use HTML Entities for Colored Blocks**](#4-use-html-entities-for-colored-blocks)
-    8. [5. **Leverage Badges**](#5-leverage-badges)
-    9. [Why Inline Styles Don't Work](#why-inline-styles-dont-work)
-    10. [**1. Supported Color Models in Issues/Discussions**](#1-supported-color-models-in-issuesdiscussions)
-    11. [**2. Diff Syntax Highlighting**](#2-diff-syntax-highlighting)
-    12. [**3. SVG with Inline Styles**](#3-svg-with-inline-styles)
-    13. [**4. Hex Color Swatches**](#4-hex-color-swatches)
-    14. [**5. Limitations**](#5-limitations)
-  15. [Using HTML Entities for colored blocks](#using-html-entities-for-colored-blocks)
-  16. [Using diff code block](#using-diff-code-block)
-17. [Gray Text](#gray-text)
-  18. [Using Emojis](#using-emojis)
-
-
-
 # Adding Colorful text
 
 To add colorful text in a GitHub README file, you can use these methods:
@@ -117,7 +96,7 @@ You can use badge generators (like [Shields.io](https://shields.io/)) to create 
 
 ---
 
-### Why Inline Styles Don't Work
+## Why Inline Styles Don't Work
 GitHub sanitizes Markdown to prevent security vulnerabilities like XSS (Cross-Site Scripting). As a result, most inline styles and custom CSS are stripped out.
 
 If you need full control over styling, consider hosting your documentation on a platform like GitHub Pages or another static site generator where you can write custom HTML/CSS.
@@ -126,7 +105,7 @@ Let me know if you'd like more help! :blush:
 
 ---
 
-3rd question 
+## How to know which HTML entities are supported
 
 To know which HTML entities or techniques for colored blocks work in GitHub README files, here are the confirmed options:
 
@@ -182,17 +161,18 @@ Citations:
 6. https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file/73613687
 7. https://superuser.com/questions/1389087/how-to-add-syntax-highlighting-to-indented-code-blocks-using-github-flavored-mar
 
-
 ---
 
-## Using HTML Entities for colored blocks
+## Examples of using Colors
+
+### Using HTML Entities for colored blocks
 
 - &#x1F7E5; Red
 - &#x1F7E6; Blue
 - &#x1F7E9; Green
 
 
-## Using diff code block
+### Using diff code block
 
 <span style="color:red;">Red-Text-Using-In-Line</span>
 
@@ -207,7 +187,7 @@ Citations:
 ```
 ---
 
-## Using Emojis
+### Using Emojis
 
 > [!TIP]
 > Using Emoojis use color ball

@@ -1,3 +1,25 @@
+- [1 Adding Colorful text](#adding-colorful-text)
+  - [1.1 Reasons for HTML Tags Not Working](#reasons-for-html-tags-not-working)
+    - [1.1.1 1. **Use Syntax Highlighting in Code Blocks**](#1-use-syntax-highlighting-in-code-blocks)
+- [2 This text will appear gray](#this-text-will-appear-gray)
+    - [2.1.2 2. **Use Emoji for Color**](#2-use-emoji-for-color)
+    - [2.1.3 3. **Embed Images with Colored Text**](#3-embed-images-with-colored-text)
+    - [2.1.4 4. **Use HTML Entities for Colored Blocks**](#4-use-html-entities-for-colored-blocks)
+    - [2.1.5 5. **Leverage Badges**](#5-leverage-badges)
+  - [2.2 Why Inline Styles Don't Work](#why-inline-styles-dont-work)
+  - [2.3 How to know which HTML entities are supported](#how-to-know-which-html-entities-are-supported)
+    - [2.3.6 **1. Supported Color Models in Issues/Discussions**](#1-supported-color-models-in-issuesdiscussions)
+    - [2.3.7 **2. Diff Syntax Highlighting**](#2-diff-syntax-highlighting)
+    - [2.3.8 **3. SVG with Inline Styles**](#3-svg-with-inline-styles)
+    - [2.3.9 **4. Hex Color Swatches**](#4-hex-color-swatches)
+    - [2.3.10 **5. Limitations**](#5-limitations)
+  - [2.4 Examples of using Colors](#examples-of-using-colors)
+    - [2.4.11 Using HTML Entities for colored blocks](#using-html-entities-for-colored-blocks)
+    - [2.4.12 Using diff code block](#using-diff-code-block)
+- [3 Gray Text](#gray-text)
+    - [3.4.13 Using Emojis](#using-emojis)
+
+
 # Adding Colorful text
 
 To add colorful text in a GitHub README file, you can use these methods:

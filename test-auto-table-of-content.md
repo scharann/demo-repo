@@ -3,7 +3,6 @@
 1. [Adding Colorful text](#adding-colorful-text)
 2. [Reasons for HTML Tags Not Working](#reasons-for-html-tags-not-working)
 3. [1. **Use Syntax Highlighting in Code Blocks**](#1-use-syntax-highlighting-in-code-blocks)
-4. [This text will appear gray](#this-text-will-appear-gray)
 5. [2. **Use Emoji for Color**](#2-use-emoji-for-color)
 6. [3. **Embed Images with Colored Text**](#3-embed-images-with-colored-text)
 7. [4. **Use HTML Entities for Colored Blocks**](#4-use-html-entities-for-colored-blocks)
@@ -19,7 +18,6 @@
 17. [Examples of using Colors](#examples-of-using-colors)
 18. [Using HTML Entities for colored blocks](#using-html-entities-for-colored-blocks)
 19. [Using diff code block](#using-diff-code-block)
-20. [Gray Text](#gray-text)
 21. [Using Emojis](#using-emojis)
 
 

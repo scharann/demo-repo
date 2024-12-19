@@ -1,23 +1,4 @@
-# Table of Contents
 
-- [Adding Colorful text](#adding-colorful-text)
-  - [Reasons for HTML Tags Not Working](#reasons-for-html-tags-not-working)
-    - [1. **Use Syntax Highlighting in Code Blocks**](#1.-**use-syntax-highlighting-in-code-blocks**)
-- [This text will appear gray](#this-text-will-appear-gray)
-    - [2. **Use Emoji for Color**](#2.-**use-emoji-for-color**)
-    - [3. **Embed Images with Colored Text**](#3.-**embed-images-with-colored-text**)
-    - [4. **Use HTML Entities for Colored Blocks**](#4.-**use-html-entities-for-colored-blocks**)
-    - [5. **Leverage Badges**](#5.-**leverage-badges**)
-    - [Why Inline Styles Don't Work](#why-inline-styles-don't-work)
-    - [**1. Supported Color Models in Issues/Discussions**](#**1.-supported-color-models-in-issues/discussions**)
-    - [**2. Diff Syntax Highlighting**](#**2.-diff-syntax-highlighting**)
-    - [**3. SVG with Inline Styles**](#**3.-svg-with-inline-styles**)
-    - [**4. Hex Color Swatches**](#**4.-hex-color-swatches**)
-    - [**5. Limitations**](#**5.-limitations**)
-  - [Using HTML Entities for colored blocks](#using-html-entities-for-colored-blocks)
-  - [Using diff code block](#using-diff-code-block)
-- [Gray Text](#gray-text)
-  - [Using Emojis](#using-emojis)
 
 
 # Adding Colorful text
